@@ -2,7 +2,7 @@
 
 A responsive and elegant web-based Employee Management System designed to handle employee records efficiently with real-time updates and a clean UI.
 
-🔗 **Live Demo:** [Click to View Project]([https://vercel.com/codewitharishs-projects/employee-managment-system/DmYhit9aWc6HLmVuvjB2gXaJbadn](https://employee-managment-system-iy2niwk7e-codewitharishs-projects.vercel.app/))
+🔗 **Live Demo:** [Click to View Project][https://vercel.com/codewitharishs-projects/employee-managment-system/DmYhit9aWc6HLmVuvjB2gXaJbadn](https://employee-managment-system-iy2niwk7e-codewitharishs-projects.vercel.app/)
 
 ---
 
